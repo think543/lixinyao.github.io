@@ -1,0 +1,7 @@
+markdown: rdiscount
+permalink: /:categories/:title/
+author: 李昕垚
+pygments: true
+safe: true
+paginate: 16
+
